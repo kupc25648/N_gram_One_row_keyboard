@@ -1,0 +1,2 @@
+# N_gram_One_row_keyboard
+This report aims to study a one row keyboard algorithm which consists of only number and space input keys. English alphabets will be predicted from associated input numbers which are group by columns in the ANSI QWERTY keyboard layout, for example 1 for ‘q’, ‘a’, or ‘z’. In this report, N-gram model is used to increase the accuracy of the output from one row keyboard input. 
